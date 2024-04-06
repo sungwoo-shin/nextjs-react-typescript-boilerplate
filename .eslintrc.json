@@ -28,6 +28,7 @@
   "rules": {
     // off
     "import/prefer-default-export": "off",
+    "import/order": "off",
 
     // error
     "curly": ["error", "all"],
